@@ -2,6 +2,8 @@
 
 *View documentation for the GTRestKit library exported using Jazzy [here](https://gtiapps.com/docs/gtrestkit/index.html).*
 
+![Cover Image](https://gtiapps.com/wp-content/uploads/2018/10/gtrestkit_snapshot_ed2-copy.png)
+
 ## Installing GTRestKit
 
 Installing GTRestKit can be done manually.
