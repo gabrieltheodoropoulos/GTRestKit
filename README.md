@@ -12,7 +12,9 @@ Installing GTRestKit can be done manually.
 
 ## Testing GTRestKit - A demo server included
 
-Any server providing RESTful APIs can be used to test GTRestKit. If you don't have any, there are many servers out there providing services for free. Take a look at [this big collection of public APIs](https://github.com/toddmotto/public-apis/blob/master/README.md). However, a small test server is included in this project too. It's a Node.js implementation, and you can run it locally to test GTRestKit if you wish so. After you have fetched the project, you can find it in the *Server* folder. By default, the server listens to port 3000, but if you want to pick another port just edit the *index.js* file and go to the bottom end of it. To run the server, open the Terminal app, and then using the `cd` command navigate to the folder where the server implementation exists. To start it, just type:
+Any server providing RESTful APIs can be used to test GTRestKit. If you don't have any, there are many servers out there providing services for free. Take a look at [this big collection of public APIs](https://github.com/toddmotto/public-apis/blob/master/README.md).
+
+However, a small test server is included in this project too. It's a Node.js implementation, and you can run it locally to test GTRestKit if you wish so. After you have fetched the project, you can find it in the *Server* folder. By default, the server listens to port 3000, but if you want to pick another port just edit the *index.js* file and go to the bottom end of it. To run the server, open the Terminal app, and then using the `cd` command navigate to the folder where the server implementation exists. To start it, just type:
 
 ```
 node index.js
