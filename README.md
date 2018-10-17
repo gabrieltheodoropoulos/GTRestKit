@@ -26,7 +26,7 @@ If you don't have the Node.js installed, read [this tutorial](https://blog.teamt
 https://gtrestkit-demo-server.herokuapp.com
 ```
 
-_(Just replace the `http://localhost:3000` with the above in the following examples)_
+_(Just replace the `http://localhost:3000` with the above in the following examples or in the demo project)_
 
 The endpoints you can use are:
 
