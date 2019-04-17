@@ -2,6 +2,8 @@
 
 **GTRestKit is no longer supported, please see [GTRest](https://github.com/gabrieltheodoropoulos/GTRest) instead!**
 
+---
+
 **GTRestKit** is a lightweight but powerful Swift library that lets you make HTTP requests in iOS and consume RESTful APIs in a modern, easy, and straightforward fashion. Tested extensively in real world applications and production, GTRestKit can become a really handy tool when dealing with web services, RESTful APIs and communication with servers. Rewritten with Swift 4.2 and with new features for convenient usage.
 
 *View documentation for the GTRestKit library exported using Jazzy [here](https://gtiapps.com/docs/gtrestkit/index.html).*
